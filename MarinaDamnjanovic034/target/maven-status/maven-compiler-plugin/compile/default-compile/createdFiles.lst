@@ -1,0 +1,6 @@
+com\it355\aspect\InterceptorLog.class
+com\it355\marinadamnjanovic\ZdravoController.class
+com\it355\marinadamnjanovic\AdController.class
+com\it355\model\Ad.class
+com\it355\dao\AdDao.class
+com\it355\dao\impl\AdDaoImpl.class
